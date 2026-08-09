@@ -3,9 +3,6 @@
 
 ![Boomba](media/roombagrasspic.jpg)
 
-> [!NOTE]
-> This project is on [YouTube](https://www.youtube.com/watch?v=yivvNzgzQ5c).
-
 CAD File: [OnShape](https://cad.onshape.com/documents/5774251259e857bba98b484c/w/d9f034375fa36d29183627c6/e/b7e8bd0829bfba4dd1cfb806)
 
 
